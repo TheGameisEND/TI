@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\работы\4сем\TИ\lab1\Cryptography\Tests\obj\Debug\Tests.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\работы\4сем\TИ\lab1\Cryptography\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
