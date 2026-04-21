@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\работы\BSUIR-main\4 semester\Information Theory\OpenKey\Code\OpenKey\bin\Debug\OpenKey.exe.config
+C:\Users\User\Desktop\работы\BSUIR-main\4 semester\Information Theory\OpenKey\Code\OpenKey\bin\Debug\OpenKey.exe
+C:\Users\User\Desktop\работы\BSUIR-main\4 semester\Information Theory\OpenKey\Code\OpenKey\bin\Debug\OpenKey.pdb
+C:\Users\User\Desktop\работы\BSUIR-main\4 semester\Information Theory\OpenKey\Code\OpenKey\obj\Debug\OpenKey.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\работы\BSUIR-main\4 semester\Information Theory\OpenKey\Code\OpenKey\obj\Debug\OpenKey.fMain.resources
+C:\Users\User\Desktop\работы\BSUIR-main\4 semester\Information Theory\OpenKey\Code\OpenKey\obj\Debug\theory_information_lab3.Properties.Resources.resources
+C:\Users\User\Desktop\работы\BSUIR-main\4 semester\Information Theory\OpenKey\Code\OpenKey\obj\Debug\OpenKey.csproj.GenerateResource.cache
+C:\Users\User\Desktop\работы\BSUIR-main\4 semester\Information Theory\OpenKey\Code\OpenKey\obj\Debug\OpenKey.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\работы\BSUIR-main\4 semester\Information Theory\OpenKey\Code\OpenKey\obj\Debug\OpenKey.exe
+C:\Users\User\Desktop\работы\BSUIR-main\4 semester\Information Theory\OpenKey\Code\OpenKey\obj\Debug\OpenKey.pdb
+C:\Users\User\Desktop\работы\4сем\TИ\lab3\Code\OpenKey\obj\Debug\OpenKey.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\работы\4сем\TИ\lab3\Code\OpenKey\obj\Debug\OpenKey.fMain.resources
+C:\Users\User\Desktop\работы\4сем\TИ\lab3\Code\OpenKey\obj\Debug\theory_information_lab3.Properties.Resources.resources
+C:\Users\User\Desktop\работы\4сем\TИ\lab3\Code\OpenKey\obj\Debug\OpenKey.csproj.GenerateResource.cache
+C:\Users\User\Desktop\работы\4сем\TИ\lab3\Code\OpenKey\obj\Debug\OpenKey.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\работы\4сем\TИ\lab3\Code\OpenKey\obj\Debug\OpenKey.exe
+C:\Users\User\Desktop\работы\4сем\TИ\lab3\Code\OpenKey\obj\Debug\OpenKey.pdb
+C:\Users\User\Desktop\работы\4сем\TИ\lab3\Code\OpenKey\bin\Debug\OpenKey.exe.config
+C:\Users\User\Desktop\работы\4сем\TИ\lab3\Code\OpenKey\bin\Debug\OpenKey.exe
+C:\Users\User\Desktop\работы\4сем\TИ\lab3\Code\OpenKey\bin\Debug\OpenKey.pdb

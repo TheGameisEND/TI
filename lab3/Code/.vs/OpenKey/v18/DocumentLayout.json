@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\T\u0418\\lab3\\Code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC9F0BC-73B0-4CC7-8B36-C7D654C099E4}|OpenKey\\OpenKey.csproj|c:\\users\\user\\desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\t\u0438\\lab3\\code\\openkey\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC9F0BC-73B0-4CC7-8B36-C7D654C099E4}|OpenKey\\OpenKey.csproj|solutionrelative:openkey\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC9F0BC-73B0-4CC7-8B36-C7D654C099E4}|OpenKey\\OpenKey.csproj|C:\\Users\\User\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\T\u0418\\lab3\\Code\\openkey\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AC9F0BC-73B0-4CC7-8B36-C7D654C099E4}|OpenKey\\OpenKey.csproj|solutionrelative:openkey\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC9F0BC-73B0-4CC7-8B36-C7D654C099E4}|OpenKey\\OpenKey.csproj|C:\\Users\\User\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\T\u0418\\lab3\\Code\\openkey\\fmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC9F0BC-73B0-4CC7-8B36-C7D654C099E4}|OpenKey\\OpenKey.csproj|solutionrelative:openkey\\fmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC9F0BC-73B0-4CC7-8B36-C7D654C099E4}|OpenKey\\OpenKey.csproj|C:\\Users\\User\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\T\u0418\\lab3\\Code\\openkey\\checker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC9F0BC-73B0-4CC7-8B36-C7D654C099E4}|OpenKey\\OpenKey.csproj|solutionrelative:openkey\\checker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC9F0BC-73B0-4CC7-8B36-C7D654C099E4}|OpenKey\\OpenKey.csproj|C:\\Users\\User\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\T\u0418\\lab3\\Code\\openkey\\mathtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC9F0BC-73B0-4CC7-8B36-C7D654C099E4}|OpenKey\\OpenKey.csproj|solutionrelative:openkey\\mathtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AC9F0BC-73B0-4CC7-8B36-C7D654C099E4}|OpenKey\\OpenKey.csproj|C:\\Users\\User\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\T\u0418\\lab3\\Code\\openkey\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AC9F0BC-73B0-4CC7-8B36-C7D654C099E4}|OpenKey\\OpenKey.csproj|solutionrelative:openkey\\rsa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\T\u0418\\lab3\\Code\\OpenKey\\fMain.Designer.cs",
+              "RelativeDocumentMoniker": "OpenKey\\fMain.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\T\u0418\\lab3\\Code\\OpenKey\\fMain.Designer.cs",
+              "RelativeToolTip": "OpenKey\\fMain.Designer.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAswMYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:13:53.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fMain.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\T\u0418\\lab3\\Code\\OpenKey\\fMain.cs",
+              "RelativeDocumentMoniker": "OpenKey\\fMain.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\T\u0418\\lab3\\Code\\OpenKey\\fMain.cs",
+              "RelativeToolTip": "OpenKey\\fMain.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:11:56.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Checker.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\T\u0418\\lab3\\Code\\OpenKey\\Checker.cs",
+              "RelativeDocumentMoniker": "OpenKey\\Checker.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\T\u0418\\lab3\\Code\\OpenKey\\Checker.cs",
+              "RelativeToolTip": "OpenKey\\Checker.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:11:48.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MathTools.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\T\u0418\\lab3\\Code\\OpenKey\\MathTools.cs",
+              "RelativeDocumentMoniker": "OpenKey\\MathTools.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\T\u0418\\lab3\\Code\\OpenKey\\MathTools.cs",
+              "RelativeToolTip": "OpenKey\\MathTools.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:11:34.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RSA.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\T\u0418\\lab3\\Code\\OpenKey\\RSA.cs",
+              "RelativeDocumentMoniker": "OpenKey\\RSA.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\T\u0418\\lab3\\Code\\OpenKey\\RSA.cs",
+              "RelativeToolTip": "OpenKey\\RSA.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:10:15.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\T\u0418\\lab3\\Code\\OpenKey\\fMain.cs",
+              "RelativeDocumentMoniker": "OpenKey\\fMain.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0440\u0430\u0431\u043E\u0442\u044B\\4\u0441\u0435\u043C\\T\u0418\\lab3\\Code\\OpenKey\\fMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "OpenKey\\fMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:08:35.252Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
